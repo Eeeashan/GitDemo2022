@@ -1,0 +1,7 @@
+DEBUG   2022-06-16 19:08:43,803 [main] devpinoyLogger  - Config file loaded!
+DEBUG   2022-06-16 19:08:43,804 [main] devpinoyLogger  - OR file loaded!
+DEBUG   2022-06-16 19:08:44,517 [main] devpinoyLogger  - Chrome Launched!
+DEBUG   2022-06-16 19:08:45,591 [main] devpinoyLogger  - Navigated to Test site!
+DEBUG   2022-06-16 19:08:45,730 [main] devpinoyLogger  - Inside Login Test!
+DEBUG   2022-06-16 19:08:46,071 [main] devpinoyLogger  - Login Successfully Executed!
+DEBUG   2022-06-16 19:08:46,156 [main] devpinoyLogger  - Test execution completed!
